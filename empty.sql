@@ -1,0 +1,2 @@
+-- This file is intentionally left empty.
+-- Explore the root directories to find interesting SQL/PLSQL exercises.
