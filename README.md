@@ -58,7 +58,7 @@
 <h2 id="installation">How To Use</h2>
 <ol>
   <li>Clone the repository:
-    <pre><code>git clone https://github.com/PortillaXpert/PLSQL-Practice.git</code></pre>
+    <pre><code>git clone https://github.com/PortillaXpert/SQL-AND-PL-SQL.git</code></pre>
   </li>
   <li>Connect to your Oracle SQL environment (SQL Developer or SQL*Plus)</li>
   <li>Run the scripts in the following recommended order:
